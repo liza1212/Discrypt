@@ -1,7 +1,7 @@
 
 # Decrypt Discord Bot
 
-The project is the capstone project for Human Language Technologies (HLT). It is a discord bot that detects the personal information in the messages and masks them accordingly.
+This project is the capstone project for Human Language Technologies (HLT). It is a discord bot that detects the personal information in the messages and masks them accordingly.
 
 
 
@@ -46,7 +46,7 @@ Install dependencies
 Go to the following 
 [link](https://drive.google.com/drive/folders/1-eHVGqaTMAXLzYNiCzo_OaQ22rBrjlog?usp=sharing) to get the finetuned checkpoints.
 
-Generate your Bot API key if you want to build your own bot through the instructions in [Discord Developer Docs](https://discord.com/developers/docs/intro).
+Generate your Bot Token ID if you want to build your own bot through the instructions in [Discord Developer Docs](https://discord.com/developers/docs/intro).
 
 Put the API key in a .env file.
 
