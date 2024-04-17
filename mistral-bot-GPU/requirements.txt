@@ -1,0 +1,8 @@
+accelerate==0.29.2
+torch==2.2.2
+transformers==4.39.3
+discord.py==1.7.3
+Flask==3.0.3
+regex==2023.12.25
+bitsandbytes==0.43.1
+python-dotenv==0.21.1
